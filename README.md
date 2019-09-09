@@ -1,2 +1,3 @@
 # rsschool-2019Q3-codeacademy
-HTML&amp;CSS basic course
+Kiryl Kireyeu
+HTML CSS Basics: https://www.codecademy.com/users/kirill_ka/achievements
